@@ -1,0 +1,50 @@
+.spending {
+  width: 500px;
+  border-radius: 15px;
+  height: 450px;
+  background-color: white;
+  padding-top: 1rem;
+  margin-top: 1.5rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  max-width: 90%;
+}
+
+.spending-main_text {
+  width: max-content;
+  font-size: 25px;
+  color: hsl(25, 47%, 15%);
+  transform: translateX(2.5rem);
+}
+
+hr {
+  width: 80%;
+  transform: translateX(50px) translateY(60px);
+  border-color: rgb(243, 239, 239);
+  opacity: 0.5;
+}
+
+.total {
+  display: flex;
+  justify-content: space-around;
+  line-height: 1.5;
+  transform: translateY(5.5rem);
+  color: hsl(25, 47%, 15%);
+}
+
+.left {
+  margin-right: 2rem;
+}
+
+.right {
+  margin-left: 2rem;
+  transform: translateY(0.9rem);
+}
+
+.total p {
+  font-size: 13px;
+}
+
+.right h2 {
+  font-size: 18px;
+  transform: translateX(2rem);
+}

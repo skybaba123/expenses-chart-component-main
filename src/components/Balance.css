@@ -1,0 +1,28 @@
+.balance {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 15px;
+  width: 500px;
+  height: 120px;
+  background-color: hsl(10, 79%, 65%);
+  color: white;
+  line-height: 1.5;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  max-width: 90%;
+}
+
+.balance p {
+  margin-left: -5rem;
+  font-size: 13px;
+}
+
+.balance h1 {
+  margin-left: -5rem;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.balance img {
+  margin-right: -5rem;
+}
