@@ -2,7 +2,7 @@
 
 # Live site : https://expenses-chart-component-skybaba.netlify.app/
 
-![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Expenses chart component coding challenge](expenses-chart-component-main/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
